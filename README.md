@@ -1,6 +1,6 @@
 # Przykładowy Tytuł
-=====
-przykład2
+=====================
+przykład2  
 link [national geographic] (http://www.national-geographic.pl/)
 
 
@@ -9,3 +9,7 @@ link [national geographic] (http://www.national-geographic.pl/)
 ```markdown
 ![tytul](link)
 ```
+>przykładowy cytat
+
+* mały
+* duźy
